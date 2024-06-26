@@ -1,2 +1,1 @@
-# barebonesTICTACTOE-java
-Simple Tic Tac Toe game in Java. Basic logic for a starting point. Expand with GUI, AI, or other languages. Perfect for learning and further development.
+A basic TicTacToe game implemented in Java. The game board uses ? for each unused spot. It includes functionality to validate each move and check for a win, announcing the winner accordingly.
